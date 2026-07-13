@@ -1,7 +1,7 @@
 # Korean Female Model
 
 ## Instructions
-Intended for use with Nano Banana Pro, Seedream 4.5/5 pro, Grok, Flux or any less censored model that uses natural language.
+Intended for use with Nano Banana Pro, Seedream 4.5, Grok, Flux or any less censored model that uses natural language.
 
 ## Concept
 Starter image of a Korean female model in theme of those normally dancing on twitch or afreecatv
