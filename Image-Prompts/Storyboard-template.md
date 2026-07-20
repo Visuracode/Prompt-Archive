@@ -1,4 +1,4 @@
-# Story
+# Storyboard Template
 
 ## Instructions
 Intended for use with Nano Banana Pro, GPT 2.0.
