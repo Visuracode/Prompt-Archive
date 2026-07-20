@@ -26,7 +26,7 @@ Storyboards allow you to reference a specific scene or generate multiple scenes 
 
 
 ## Storyboard Template
-*Front, Back and Face Close Up*
+*Fill in at minimum project name and location, fill in more details for more control*
 ```prompt
 Professional film storyboard page, clean pure white background, high-end production design, exact 2×3 grid layout.
 
